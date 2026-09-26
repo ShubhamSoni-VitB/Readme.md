@@ -5,6 +5,7 @@ Smart Shopping Bill Generator
    
 Smart Shopping Bill Generator is a simple Python program that creates a shopping bill based on the items purchased by a customer.
 The user enters the customer name, city, number of items, item details, and payment method. The program calculates the total amount, discount, GST, and final amount automatically.
+
 2. Main Features:
 
 Takes customer details as input.
@@ -17,6 +18,7 @@ Displays the final payable amount.
 Allows Cash, UPI, or Card as payment methods.
 Checks eligibility for a shopping offer.
 Demonstrates a membership operator and type() function.
+
 3. Discount Rules
 
 Purchase of Rs. 5000 or more: 20% discount
@@ -38,6 +40,7 @@ Logical operators
 Membership operator (in)
 type()
 round()
+
 5. How to Run
 
 Open VS Code.
@@ -50,6 +53,7 @@ Enter the required details.
 6. Example Flow
    
 Customer name -> City -> Number of items -> Item details -> Discount -> GST -> Payment method -> Final bill
+
 7. Purpose
 
 The purpose of this project is to apply basic Python programming concepts to a practical shopping bill problem.
